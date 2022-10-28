@@ -1,0 +1,13 @@
+body{
+background-color: rgb(141, 214, 214);
+}
+#main-doc{
+    background-color: aquamarine;
+    width: 80%;
+}
+.main-section{
+    background-color: azure;
+}
+h3{
+    color: blue;
+}
